@@ -40,7 +40,7 @@ Landmark Recognition can help!
 ### File Description
 
 * `test/`         contains testing set of images to recognize which landamrks
-* `train/`        conatains training set of images with corresponding landmark labels in train.csv
+* `train/`        contains training set of images with corresponding landmark labels in train.csv
 * `sample_submission.csv`   A sample submission file n the correct format
 * `train.csv`   corresponding landmarks labels of train set images  
 
@@ -53,3 +53,15 @@ Each image has a unique `id`. Since there are a large number of images, each ima
 
 Source code of the 7th place Team `DNA`.https://www.kaggle.com/andy2709/fork-of-recognition-notebook-16367c-511fa4-95d3bf?scriptVersionId=43685736 
 
+
+### Addition Import files to Notebook 
+
+* `superpoint-pytorch`  https://www.kaggle.com/andy2709/superpoint-pytorch
+* `semantic-segmemtation-pytorch`   https://www.kaggle.com/andy2709/semantic-segmentation-pytorch/download
+* `landmark-lib`    https://www.kaggle.com/andy2709/landmark-lib
+* `train-embeddings`    https://www.kaggle.com/andy2709/train-embeddings
+
+### Features Used
+
+- `Superpoint`
+- `SuperGlue for Local Re-Ranking`
