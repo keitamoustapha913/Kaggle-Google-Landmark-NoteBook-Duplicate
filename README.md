@@ -6,6 +6,7 @@ Master AI Deep Learning Class Project :
 * Take the code of one of the top20 participants
 * Explain notebook code and concepts used
 
+
 # Context of the competiton
 
 `The Google Landmark Recognition Challenge 2020 On Kaggle`
@@ -25,15 +26,6 @@ Landmark Recognition can help!
 
 * Classification of 158k+ images of about 15k landmarks categories
 
-## Datasets
-
-### File description
-
-* `test/`         contains testing set of images to recognize which landamrks
-* `train/`        conatains training set of images with corresponding landmark labels in train.csv
-
-Each image has a unique `id`. Since there are a large number of images, each image is placed within three subfolders according to the first three characters of the image `id` (i.e image `abcdef.jpg`) is placed in `a/b/c/abcdef.jpg` ).
-
 
 ## Challenges
 
@@ -43,8 +35,21 @@ Each image has a unique `id`. Since there are a large number of images, each ima
 * GAP (Global Average Metrics) metrics (i.e confidence scores are very important)
 
 
+## Datasets
+
+### File Description
+
+* `test/`         contains testing set of images to recognize which landamrks
+* `train/`        conatains training set of images with corresponding landmark labels in train.csv
+* `sample_submission.csv`   A sample submission file n the correct format
+* `train.csv`   corresponding landmarks labels of train set images  
+
+### Data Description
+
+Each image has a unique `id`. Since there are a large number of images, each image is placed within three subfolders according to the first three characters of the image `id` (i.e image `abcdef.jpg`) is placed in `a/b/c/abcdef.jpg` ).
+
+
 ## Notebook Used
 
 Source code of the 7th place Team `DNA`.https://www.kaggle.com/andy2709/fork-of-recognition-notebook-16367c-511fa4-95d3bf?scriptVersionId=43685736 
-
 
