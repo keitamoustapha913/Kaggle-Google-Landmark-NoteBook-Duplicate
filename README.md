@@ -1,4 +1,4 @@
-# Kaggle-deep-Google-Landmark-Duplicate
+# Kaggle-Google-Landmark-NoteBook-Duplicate
 
 Master AI Deep Learning Class Project : 
 
