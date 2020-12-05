@@ -1,4 +1,4 @@
-# Kaggle-deep-Google-Landmark-copy
+# Kaggle-deep-Google-Landmark-Duplicate
 
 Master AI Deep Learning Class Project : 
 
